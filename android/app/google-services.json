@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58783453322",
+    "project_id": "cootz-4e2af",
+    "storage_bucket": "cootz-4e2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58783453322:android:6d650412268571c5f9dd73",
+        "android_client_info": {
+          "package_name": "com.Cootz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58783453322-sgaljp9tpcee4jlekgcnjef45s4bu1s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Cootz",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "58783453322-n44m292t76a818kmpbrr3ekk859c3mvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2QIkqTEoFszADPjw0wTLJVcjOWQeMlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58783453322-n44m292t76a818kmpbrr3ekk859c3mvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
